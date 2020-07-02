@@ -1,4 +1,4 @@
-# foundryvtt-show-notes
+# show-notes
 
 Automatically flag journal notes to show on the map without having to have your players turn it on themselves.
 
