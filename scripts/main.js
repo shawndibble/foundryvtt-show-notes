@@ -1,1 +1,1 @@
-Hooks.on('init', () => game.settings.set('core', 'notesDisplayToggle', true));
+Hooks.on('setup', () => game.settings.set('core', 'notesDisplayToggle', true));
