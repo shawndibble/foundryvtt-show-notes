@@ -3,11 +3,11 @@
 	"title" : "Show Notes",
 	"description" : "Always show notes.",
 	"author" : "KrishMero#1792",
-	"version" : "0.2",
+	"version" : "0.3",
 	"minimumCoreVersion" : "0.6.0",
-	"compatibleCoreVersion": "0.6.6",
+	"compatibleCoreVersion": "0.7.5",
 	"esmodules" : ["scripts/main.js"],
 	"url" : "https://github.com/shawndibble/foundryvtt-show-notes",
 	"manifest" : "https://github.com/shawndibble/foundryvtt-show-notes/raw/master/module.json",
-	"download" : "https://github.com/shawndibble/foundryvtt-show-notes/archive/0.2.zip"
+	"download" : "https://github.com/shawndibble/foundryvtt-show-notes/archive/0.3.zip"
 }
