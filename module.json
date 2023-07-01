@@ -1,13 +1,15 @@
 {
-	"name" : "foundryvtt-show-notes",
+	"id" : "foundryvtt-show-notes",
 	"title" : "Show Notes",
 	"description" : "Always show notes on the map.",
 	"author" : "KrishMero",
-	"version" : "0.7",
-	"minimumCoreVersion" : "0.6.0",
-	"compatibleCoreVersion": "11",
+	"version" : "11.1",
+	"compatibility": {
+		"minimum": "0.6.0",
+		"verified": "11"
+	}
 	"esmodules" : ["scripts/main.js"],
 	"url" : "https://github.com/shawndibble/foundryvtt-show-notes",
 	"manifest" : "https://github.com/shawndibble/foundryvtt-show-notes/raw/master/module.json",
-	"download" : "https://github.com/shawndibble/foundryvtt-show-notes/archive/11.zip"
+	"download" : "https://github.com/shawndibble/foundryvtt-show-notes/archive/11.1.zip"
 }
